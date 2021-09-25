@@ -1,2 +1,2 @@
-# class-39
-leader board,left,right,reset buttuon
+# C39RV_SpeedRacer_StudentActivity
+Student Activity
